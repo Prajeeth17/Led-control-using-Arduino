@@ -1,4 +1,4 @@
-# Led-control-using-Arduino
+# Exp No:1 Led control using Arduino
 ### Name: Prajeeth K T
 ### Register No: 21222110034
 ## AIM
